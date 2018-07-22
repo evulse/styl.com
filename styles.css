@@ -117,7 +117,7 @@ html {
 3. LEFT SECTION
 --------------------------------- */
 
-.left-section{ position: absolute; top: 0; bottom: 0; left: 0; width: 50%; background-size: cover; }
+.left-section{ position: absolute; top: 0; bottom: 0; left: 0; width: 30%; background-size: cover; background-position:center; }
 
 
 #normal-countdown{ text-align: center; }
@@ -135,7 +135,7 @@ html {
 4. RIGHT SECTION
 --------------------------------- */
 
-.right-section{ float: right; width: 50%; position: relative; padding: 0 60px; }
+.right-section{ float: right; width: 70%; position: relative; padding: 0 60px; }
 
 .right-section .logo{ position: absolute; top: 40px; height: 60px; }
 
